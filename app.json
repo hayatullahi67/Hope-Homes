@@ -24,7 +24,16 @@
       "package": "com.ola12ee.realestateapp"
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "name": "Hope Homes",
+      "shortName": "Hope Homes",
+      "display": "standalone",
+      "backgroundColor": "#ffffff",
+      "themeColor": "#2196F3",
+      "startUrl": "/",
+      "scope": "/",
+      "orientation": "portrait",
+      "lang": "en"
     },
     "extra": {
       "eas": {
