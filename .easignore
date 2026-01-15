@@ -1,0 +1,19 @@
+node_modules
+.git
+.gitignore
+.expo
+.expo-shared
+.vscode
+.env
+.env.*
+*.log
+
+# Android
+android/build
+android/app/build
+android/.gradle
+
+# iOS
+ios/Pods
+ios/build
+ios/*.xcworkspace
